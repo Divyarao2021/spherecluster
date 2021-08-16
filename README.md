@@ -1,4 +1,6 @@
 # Clustering on the unit hypersphere in scikit-learn
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDivyarao2021%2Fspherecluster.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDivyarao2021%2Fspherecluster?ref=badge_shield)
+
 
 <img src="images/sphere_w_clusters.png" alt="Mixture of von Mises Fisher" width="400">
 
@@ -160,3 +162,7 @@ Spherical k-means, which is a simple low-cost modification to the standard k-mea
 
 - [sklearn GMM](http://scikit-learn.org/stable/modules/mixture.html)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDivyarao2021%2Fspherecluster.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDivyarao2021%2Fspherecluster?ref=badge_large)
